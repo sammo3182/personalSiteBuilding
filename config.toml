@@ -1,3 +1,4 @@
+publishDir = "../username.github.io"
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"

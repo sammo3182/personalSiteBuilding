@@ -6,7 +6,7 @@ categories:
 - methodology
 - visualization
 
-date: "2021-11-01"
+date: "2020-11-01"
 featured: true
 draft: false
 

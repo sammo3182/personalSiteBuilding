@@ -1,5 +1,6 @@
-publishDir = "../username.github.io"
-baseURL = "https://sammo3182.github.io"
+#publishDir = "../username.github.io"
+#baseURL = "https://sammo3182.github.io"
+baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hu Yue"

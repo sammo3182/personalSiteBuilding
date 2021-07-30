@@ -85,9 +85,21 @@ Preview Slides     TBA</description>
     </item>
     
     <item>
+      <title>drhur</title>
+      <link>/software/drhur/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/software/drhur/</guid>
+      <description>Yue Hu. 2016. drhur: Learning R with Dr. Hu. The Comprehensive R Archive Network (CRAN).
+  drhur is pedagogical software make the R learners&#39; life a little bit easier and more happily and a supplementary courseware for Dr. Yue Hu&amp;rsquo;s R program lectures. The tutorials included are crystallized during Dr. Hu&amp;rsquo;s online and offline R workshop.
+To install:
+ the latest release version: install.packages(&amp;quot;drhur&amp;quot;).   the latest version: remotes::install_github(&amp;quot;sammo3182/drhur&amp;quot;).</description>
+    </item>
+    
+    <item>
       <title>drhutools</title>
       <link>/software/drhutools/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/software/drhutools/</guid>
       <description>A toolbox for writing an academic paper with rmarkdown. The tools includes data analyses, visualization, and documenting.

@@ -13,7 +13,7 @@ categories:
 weight: 3
 ---
 
-<img src="featured.gif" width = "350" height = "330"  align="right" />
+<img src="featured.jpg" width = "250" height = "300"  align="right" />
 
 This is a course I coinstructed with Dr. MENG Tianguang. The course is on building. More information will be available soon.
 

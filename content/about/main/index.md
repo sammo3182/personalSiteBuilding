@@ -17,7 +17,7 @@ intro: |
   And, I am an avid fan of data visualization.
   
   As a faculty member, I have worked for Tsinghua since 2019, where I teach **public policy analysis, intro to political science, political method foundations, and big data analysis for governance**. 
-  I am also the founder of **"Learning R with Dr. Hu" year-long workshop** and serve as the deputy director of the Tsinghua Computational Social Science Platform (清华大学计算社会科学平台) and Tsinghua Center on Data and Governance (清华数据治理中心).
+  I am also the founder of **"Learning R with Dr. Hu" year-long workshop** and serve as the deputy director of the Tsinghua Center on Data and Governance (清华数据治理中心).
   Since the spring of 2021, I've become a [Github Campus Advisor](https://education.github.com/teachers/advisors) and striven to promote version-control skill among students and anyone who are interested.
   
   See my curriculum vitae [here](https://github.com/sammo3182/cv/blob/master/Hu_CV_en.pdf) and the Chinese version (中文简历) [here](https://github.com/sammo3182/cv/blob/master/Hu_CV_cn.pdf).

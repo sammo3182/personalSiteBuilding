@@ -1,6 +1,6 @@
 ---
 title: "HU Yue | 胡悦, Ph.D."
-subtitle: "Adjunct Associate Professor of Political Science"
+subtitle: "Associate Professor of Political Science"
 subtitle2: "Tsinghua University"
 description: Hi, welcome to my personal website! I am a comparativist and methodologist in political science. My research interests include political psychology, political linguistics, socioeconomic inequality and public opinion, and identity in urban politics. Currently I am a faculty member of the [Department of Political Science](https://www.dps.tsinghua.edu.cn/index.htm) at Tsinghua University.
 

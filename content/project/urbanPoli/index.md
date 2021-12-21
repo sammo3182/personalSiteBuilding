@@ -24,6 +24,8 @@ Furthermore, I would like to evaluate the efficiency of the same policy tools on
 
 ### Published Studies
 
+Tang, Wenfang, and Yue Hu. 2022. [“Detecting Grassroots Bribery and its Sources in China: A Survey Experimental Approach”](https://www.researchgate.net/publication/356834671_Detecting_Grassroots_Bribery_and_its_Sources_in_China_A_Survey_Experimental_Approach) *China: An International Journal*: Accepted. (Pre-print [available here](https://www.researchgate.net/publication/356834671_Detecting_Grassroots_Bribery_and_its_Sources_in_China_A_Survey_Experimental_Approach))
+
 Hu, Yue, and Elise Pizzi. 2022. [“The Role of Language Policy in Migration Decisions.”](https://www.researchgate.net/publication/353571483_Breaking_Through_the_Linguistic_Barrier_The_Role_of_Language_Policy_in_Migration_Decisions) *China: An International Journal*: Accepted.
 
 Pizzi, Elise, and Yue Hu. 2021. [“Does Governmental Policy Shape Migration Decisions?The Case of China’s Hukou System.”](https://www.researchgate.net/publication/353571706_Does_Governmental_Policy_Shape_Migration_Decisions_The_Case_of_China's_Hukou_System) *Modern China*: Accepted.

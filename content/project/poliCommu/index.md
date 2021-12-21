@@ -22,6 +22,8 @@ I am interested in an age of the Internet and new media, how state media conduct
 
 ### Published Studies
 
+Jiang, Qiaolei, Shiyu Liu, Yue Hu, and Jing Xu. 2021. [“Social Media for Health Campaign and Solidarity Among Chinses Fandom Publics During the Covid-19 Pandemic.”](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.824377/abstract) *Frontiers in Psychology: Health Psychology*: Accepted.
+
 Hu, Yue, and Zijie Shao. 2021. [“What Drives Chinese Internet Users to Watch State-Media Broadcasts? An Audience Analysis.”](https://www.researchgate.net/publication/353571814_What_Drives_Chinese_Internet_Users_to_Watch_State-Media_Broadcasts_An_Audience_Analysis) *Journal of Chinese Political Science*: Accepted.
 
 ———. 2020b. [“Refocusing Democracy: The Chinese Government’s Framing Strategy in Political Language.”](https://www.tandfonline.com/doi/abs/10.1080/13510347.2019.1690461) *Democratization* 72(2): 302–20.

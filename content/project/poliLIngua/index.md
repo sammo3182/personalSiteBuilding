@@ -31,7 +31,7 @@ Hu, Yue, and Amy H. Liu. 2020. [“The Effects of Foreign Language Proficiency o
 
 Hu, Yue. 2020a. [“Culture Marker Versus Authority Marker: How Do Language Attitudes Affect Political Trust?”](https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12646) *Political Psychology* 41(4): 699–716.
 
-———. 2020b. [“Refocusing Democracy: The Chinese Government’s Framing Strategy in Political Language.”](https://www.tandfonline.com/doi/abs/10.1080/13510347.2019.1690461) *Democratization* 72(2): 302–20.
+Hu, Yue. 2020b. [“Refocusing Democracy: The Chinese Government’s Framing Strategy in Political Language.”](https://www.tandfonline.com/doi/abs/10.1080/13510347.2019.1690461) *Democratization* 72(2): 302–20.
 
 Tang, Wenfang, Yue Hu, and Shuai Jin. 2016. [“Affirmative Inaction: Language Education and Labor Mobility among China’s Muslim Minorities.”](https://www.tandfonline.com/doi/abs/10.1080/21620555.2016.1202753) *Chinese Sociological Review* 48(4): 346–66.
 

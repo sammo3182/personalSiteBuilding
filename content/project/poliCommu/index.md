@@ -26,7 +26,7 @@ Jiang, Qiaolei, Shiyu Liu, Yue Hu, and Jing Xu. 2021. [“Social Media for Healt
 
 Hu, Yue, and Zijie Shao. 2021. [“What Drives Chinese Internet Users to Watch State-Media Broadcasts? An Audience Analysis.”](https://www.researchgate.net/publication/353571814_What_Drives_Chinese_Internet_Users_to_Watch_State-Media_Broadcasts_An_Audience_Analysis) *Journal of Chinese Political Science*: Accepted.
 
-———. 2020b. [“Refocusing Democracy: The Chinese Government’s Framing Strategy in Political Language.”](https://www.tandfonline.com/doi/abs/10.1080/13510347.2019.1690461) *Democratization* 72(2): 302–20.
+Hu, Yue. 2020. [“Refocusing Democracy: The Chinese Government’s Framing Strategy in Political Language.”](https://www.tandfonline.com/doi/abs/10.1080/13510347.2019.1690461) *Democratization* 72(2): 302–20.
 
 Hu, Yue. 2019. [“Are Informal Education Facilities Effective Means for Generating Political Support? A Spatial Analysis.”](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12589) *Social Science Quarterly* 100(3): 701–24.
 

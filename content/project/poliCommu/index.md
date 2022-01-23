@@ -22,7 +22,7 @@ I am interested in an age of the Internet and new media, how state media conduct
 
 ### Published Studies
 
-Jiang, Qiaolei, Shiyu Liu, Yue Hu, and Jing Xu. 2021. [“Social Media for Health Campaign and Solidarity Among Chinses Fandom Publics During the Covid-19 Pandemic.”](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.824377/abstract) *Frontiers in Psychology: Health Psychology*: Accepted.
+Jiang, Qiaolei, Shiyu Liu, Yue Hu, and Jing Xu. 2022. [“Social Media for Health Campaign and Solidarity Among Chinses Fandom Publics During the Covid-19 Pandemic.”](https://www.frontiersin.org/article/10.3389/fpsyg.2021.824377) *Frontiers in Psychology: Health Psychology* 12: Online.
 
 Hu, Yue, and Zijie Shao. 2021. [“What Drives Chinese Internet Users to Watch State-Media Broadcasts? An Audience Analysis.”](https://www.researchgate.net/publication/353571814_What_Drives_Chinese_Internet_Users_to_Watch_State-Media_Broadcasts_An_Audience_Analysis) *Journal of Chinese Political Science*: Accepted.
 

@@ -15,7 +15,7 @@ Hu, Yue, and Elise Pizzi. 2022. [“The Role of Language Policy in Migration Dec
 
 Pizzi, Elise, and Yue Hu. 2022. [“Does Governmental Policy Shape Migration Decisions?The Case of China’s Hukou System.”](https://www.researchgate.net/publication/353571706_Does_Governmental_Policy_Shape_Migration_Decisions_The_Case_of_China's_Hukou_System) *Modern China*: Accepted. (Pre-print [available here](https://www.researchgate.net/publication/353571706_Does_Governmental_Policy_Shape_Migration_Decisions_The_Case_of_China's_Hukou_System))
 
-Jiang, Qiaolei, Shiyu Liu, Yue Hu, and Jing Xu. 2021. [“Social Media for Health Campaign and Solidarity Among Chinses Fandom Publics During the Covid-19 Pandemic.”](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.824377/abstract) *Frontiers in Psychology: Health Psychology*: Accepted.
+Jiang, Qiaolei, Shiyu Liu, Yue Hu, and Jing Xu. 2022. [“Social Media for Health Campaign and Solidarity Among Chinses Fandom Publics During the Covid-19 Pandemic.”](https://www.frontiersin.org/article/10.3389/fpsyg.2021.824377) *Frontiers in Psychology: Health Psychology* 12: Online.
 
 Hu, Yue, and Zijie Shao. 2021. [“What Drives Chinese Internet Users to Watch State-Media Broadcasts? An Audience Analysis.”](https://www.researchgate.net/publication/353571814_What_Drives_Chinese_Internet_Users_to_Watch_State-Media_Broadcasts_An_Audience_Analysis) *Journal of Chinese Political Science*: Accepted. (Pre-print [available here](https://www.researchgate.net/publication/353571814_What_Drives_Chinese_Internet_Users_to_Watch_State-Media_Broadcasts_An_Audience_Analysis))
 
@@ -40,9 +40,11 @@ Hu, Yue. 2013. [“Institutional Difference and Cultural Difference: A Comparati
 
 ## Chinese Journal Articles
 
-胡悦、朱毓朝：[《“问题与主义”导向之争——西方比较政治学沿革及其借鉴意义》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2011&filename=TJSK201103008&v=wJomofbuZ4BfC2UpSmZz4katzB3srKnBFu84np7U1HnyjYqD2oeSdWCADTA2dJ1y)，《天津社会科学》 2011年第03期。
+胡悦：[《实验室实验：政治科学研究的一种有效方法?》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GWLD202106020&uniplatform=NZKPT&v=PJYfzUdELnpV-fTfaz1qhlzXK-PBjlfPmQ9ieLN3AwtLHnQA7zFItljLs4eCH3va)，《国外理论动态》2021年第06期, 第160-171页。
 
-程同顺、胡悦：[《对外政策的文化道具——浅析文明冲突论的工具性》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2010&filename=XXNT201002009&v=qqRDE%25mmd2BK%25mmd2F8maCjhRqamQy24y594BLoBshF93MAaD1F85IJfnYs9FU5tZ6bOIfKFJ5)，《学习论坛》 2010年第02期。
+胡悦、朱毓朝：[《“问题与主义”导向之争——西方比较政治学沿革及其借鉴意义》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2011&filename=TJSK201103008&v=wJomofbuZ4BfC2UpSmZz4katzB3srKnBFu84np7U1HnyjYqD2oeSdWCADTA2dJ1y)，《天津社会科学》 2011年第03期, 第46-50页。
 
-胡悦：[《从政治科学角度分析人民政协的政治定位》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2009&filename=TJSH200901008&v=AMA6ZfyGEWjizyk4k6oyXpPAEZQLT%25mmd2B3TtEAgjx8Z4MDPoVoca18YOYXajOKdvSox)，《天津市社会主义学院学报》 2009年第01期。
+程同顺、胡悦：[《对外政策的文化道具——浅析文明冲突论的工具性》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2010&filename=XXNT201002009&v=qqRDE%25mmd2BK%25mmd2F8maCjhRqamQy24y594BLoBshF93MAaD1F85IJfnYs9FU5tZ6bOIfKFJ5)，《学习论坛》 2010年第02期, 第33-37页。
+
+胡悦：[《从政治科学角度分析人民政协的政治定位》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2009&filename=TJSH200901008&v=AMA6ZfyGEWjizyk4k6oyXpPAEZQLT%25mmd2B3TtEAgjx8Z4MDPoVoca18YOYXajOKdvSox)，《天津市社会主义学院学报》 2009年第01期, 第19-23页。
 

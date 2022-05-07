@@ -1,8 +1,8 @@
 ---
-title: Analysis of Public Policy | 公共政策分析
-subtitle: A View from Political Science | 政治学视角
+title: Analysis of Public Policy | 公共政策分析 (30700953)
+subtitle: Perspectives and Methods | 视角与方法
 author: HU Yue
-excerpt: A political-science understanding how public policies are built and implemented.
+excerpt: Fundamental theories and approaches to analyze public policies.
 
 date: "2021-07-19"
 draft: false
@@ -20,27 +20,21 @@ weight: 1
 
 <img src="featured.gif" width = "350" height = "330"  align="right" />
 
-Policies are everywhere in the modern society.
-They serve as the tie between the rulers and ruled and the means to steer collective actions for the given goals.
-In this sense, the ability to understand where policy comes from and how it runs and ends has become a crucial quality of the potential successors and leaders.
-*Analysis of Public Policy* is the place you cultivate this quality.
+Analysis of Public Policy: Perspectives and Methods focuses on empirical policy evaluation. 
+The course introduces a political scientist view and a series of modern empirical methods into public policy analyses. 
+Students will learn not only the fundamental analytic theories for public policy evaluation but also tools such as case study, survey, experiments, and big-data analysis, that can be used to analyze different types of policies. 
+In every topic, we will include real-life cases to illustrate how the theories and method can be applied.
 
-The course starts with the conceptualization of public policy, and introduce the diverse perspectives and common principles of understanding public policies.
-The first half of the course will introduce analytic views from political science, sociology, psychology, and economy demonstrating the specific routines of social scientists to destruct policies.
-The second half will then open social scientists' analytic toolkit for policy analysis and evaluation. 
-We will discuss a series of popular methods including experiments, statistical inference, big data, and case studies. 
-In every topic, we will include examples to illustrate how the perspectives and methods are applied to understand real-life policies.
+*This is a general-education course for introducing basic knowledge and approaches of public policy analysis.* 
+If you are not intend to major Political Science or relevant areas, you may want to check the general-education version of the course ["Understanding Policies" (10700193)](https://sammo3182.github.io/course/substantive-series/01-understanding_public_policy/).
 
-现代社会中，公共政策无处不在。
-它是联结决策者与执行者的重要**纽带**，也是规范群体行为、实现个体和社会发展的**指向标**。
-作为**社会成员**，越能综合理解公共政，就越能理解政府和社会治理逻辑，进而了解公民行为准则的初衷和边界；
-作为**未来精英**，对公共政策案例接触得越多样，也就越能掌握分析判断政策效果的技巧，以实现快速融入制度，借力制度优势，成为各类行业中的有力竞争者和决策者。
-《公共政策分析》即是为塑造合格现代公民、培育未来领袖进行的知识和能力准备。
 
-本课是政治学基础课程，从讲解公共政策内涵开始，铺陈制定公共政策的多元认知视角和普遍原则，培养学生追本溯源、由表及里的政策分析能力。
-课程前半段以跨越政治、经济、社会、心理的多元学科视角，展示公共政策核心原则、制定逻辑和实施目标。
-后半段则结合应用案例，介绍运用实验、观察数据、个案、大数据等多种手段，研判公共政策的思维模式和方式方法。
-课程以普及政策常识和社会科学基本原理为核心，通过教师、学生双主体的参与式教学，帮助学生加深对公共政策的理解、增强评判公共政策的能力、树立正确公民观。
+《公共政策分析: 视角与方法》课程定位于*实证*分析，主要讲授基于现代政治科学理论和工具的公共政策分析模式和方法。
+课程通过讲授、宾主对、实时数据分析等环节，培养学生社会科学研究素养以及恰当选择、运用实证方法分析现实政策政策的能力。
+课程前半段集中讲授主流政策分析范式和理论视角，后半段则侧重对政策分析的个案分析、调查分析、实验、大数据分析等分析手段及应用技巧介绍，力图最终实现公共政策分析能力理论和实操层面的共同提升。
+课程以教师和学生的互动教学为核心，在参与式教学中帮助学生加深对公共政策分析的基本概念、理论和思路的理解。
+
+本课为政治学与行政学的专业课程。如你只是想对公共政策基础知识感兴趣，欢迎选修[《理解公共政策》(10700193)](https://sammo3182.github.io/course/substantive-series/01-understanding_public_policy/)
 
 
 ### Preview Slides

@@ -1,5 +1,5 @@
 ---
-title: Analysis of Political Data | 政治数据分析
+title: Analysis of Political Data | 政治数据分析 (70700173)
 subtitle: Large-N & Leeuwenhoek | 大样本分析与列文虎克
 author: Yue Hu
 excerpt: A gateway course of political methodology

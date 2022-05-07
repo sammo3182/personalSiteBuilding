@@ -1,6 +1,6 @@
 ---
-title: Learning R with Dr. Hu and His Friends | R语言工作坊
-subtitle: Young CSS R Language Programmer Certificate Program
+title: Learning R with Dr. Hu and His Friends | 计算社会科学编程语言证书项目（R语言)
+subtitle: Computational Social Science Learning Certificate in Programming
 author: Yue Hu
 excerpt: Year-long programming workshop and certificate program
 
@@ -30,7 +30,7 @@ The workshop series is also a part of the certificate program "Young Computation
 全系列为一年期项目，免费对线下清华所有学生和教职工开放，并根据需求提供线上模式。
 我同时开发了开源软件包`drhur`辅助教学和课后练习。详情可参见“软件”部分的[详细介绍](/software/drhur) 或者[软件网站](https://sammo3182.github.io/drhur/)
 
-R语言工作坊同时是“青年计算社会科学家：R语言编程”证书项目的一部分。该证书由清华大学计算社会科学平台颁发。
+R语言工作坊是“计算社会科学编程语言证书项目”目的核心部分，该证书由清华大学计算社会科学平台颁发。
 
 
 ### Preview Slides

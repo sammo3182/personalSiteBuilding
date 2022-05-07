@@ -10,7 +10,7 @@ categories:
 
 date: "2021-07-29"
 draft: false
-excerpt: Research on how language shapes political cognition
+excerpt: How language shapes political cognition and behaviors
 layout: single
 
 title: Political Linguistics
@@ -22,10 +22,11 @@ subtitle: Experimental and Observed Studies
 
 Language is the fundamental feature of human beings. 
 The debate of whether does language shapes thoughts or the other way around has inspires the greatest theorists and scientists throughout the human history.
-I aim to contribute to this classic topic from a view of political science. 
-Using experimental and observed studies, I strive to identify the language effect in mass political cognition and linguistic relativity in sociopolitical behaviors and attitudes.
+Nevertheless, the importance of language in political lives has not been well studied yet.
 
-### Published Studies
+Cutting in from an empirical angle, I strive to identify the influences of linguistic relativity and language planning in the government-mass relationship and the (re)construction of mass political cognition.
+
+### Selected Publications
 
 Hu, Yue, and Amy H. Liu. 2020. [“The Effects of Foreign Language Proficiency on Public Attitudes: Evidence from the Chinese-Speaking World.”](https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/effects-of-foreign-language-proficiency-on-public-attitudes-evidence-from-the-chinesespeaking-world/56277FA559EFC923958CC405566E6DDD?__cf_chl_jschl_tk__=pmd_9f85bc92b6ed02ea2e1eefa21596c04f8fd3f9b9-1627628614-0-gqNtZGzNAvijcnBszQp6) *Journal of East Asian Studies* 20(1): 1–23.
 

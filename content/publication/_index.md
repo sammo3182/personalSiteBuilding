@@ -9,15 +9,19 @@ layout: single
 
 ## Peer Review Articles
 
-Tang, Wenfang, and Yue Hu. 2022. [“Detecting Grassroots Bribery and its Sources in China: A Survey Experimental Approach”](https://www.researchgate.net/publication/356834671_Detecting_Grassroots_Bribery_and_its_Sources_in_China_A_Survey_Experimental_Approach) *China: An International Journal*: Accepted. (Pre-print [available here](https://www.researchgate.net/publication/356834671_Detecting_Grassroots_Bribery_and_its_Sources_in_China_A_Survey_Experimental_Approach))
+Tai, Yuehong, Yue Hu, and Frederick Solt. 2022. [“Democracy, Public Support, and Measurement Uncertainty.”](https://doi.org/10.1017/S0003055422000429) *American Political Science Review*: First View. (Pre-print [available here](https://osf.io/preprints/socarxiv/y5fdv/)) 
 
-Hu, Yue, and Elise Pizzi. 2022. [“The Role of Language Policy in Migration Decisions.”](https://www.researchgate.net/publication/353571483_Breaking_Through_the_Linguistic_Barrier_The_Role_of_Language_Policy_in_Migration_Decisions) *China: An International Journal*: Accepted. (Pre-print [available here](https://www.researchgate.net/publication/353571483_Breaking_Through_the_Linguistic_Barrier_The_Role_of_Language_Policy_in_Migration_Decisions))
+Tang, Wenfang, and Yue Hu. 2022. [“Detecting Grassroots Bribery and its Sources in China: A Survey Experimental Approach”](https://www.researchgate.net/publication/356834671_Detecting_Grassroots_Bribery_and_its_Sources_in_China_A_Survey_Experimental_Approach) *China: An International Journal*: Forthcoming. (Pre-print [available here](https://www.researchgate.net/publication/356834671_Detecting_Grassroots_Bribery_and_its_Sources_in_China_A_Survey_Experimental_Approach))
 
-Pizzi, Elise, and Yue Hu. 2022. [“Does Governmental Policy Shape Migration Decisions?The Case of China’s Hukou System.”](https://www.researchgate.net/publication/353571706_Does_Governmental_Policy_Shape_Migration_Decisions_The_Case_of_China's_Hukou_System) *Modern China*: Accepted. (Pre-print [available here](https://www.researchgate.net/publication/353571706_Does_Governmental_Policy_Shape_Migration_Decisions_The_Case_of_China's_Hukou_System))
+Hu, Yue, and Elise Pizzi. 2022. [“The Role of Language Policy in Migration Decisions.”](https://www.researchgate.net/publication/353571483_Breaking_Through_the_Linguistic_Barrier_The_Role_of_Language_Policy_in_Migration_Decisions) *China: An International Journal*: Forthcoming. (Pre-print [available here](https://www.researchgate.net/publication/353571483_Breaking_Through_the_Linguistic_Barrier_The_Role_of_Language_Policy_in_Migration_Decisions))
 
-Jiang, Qiaolei, Shiyu Liu, Yue Hu, and Jing Xu. 2022. [“Social Media for Health Campaign and Solidarity Among Chinses Fandom Publics During the Covid-19 Pandemic.”](https://www.frontiersin.org/article/10.3389/fpsyg.2021.824377) *Frontiers in Psychology: Health Psychology* 12: Online.
+Pizzi, Elise, and Yue Hu. 2022. [“Does Governmental Policy Shape Migration Decisions?The Case of China’s Hukou System.”](https://www.researchgate.net/publication/353571706_Does_Governmental_Policy_Shape_Migration_Decisions_The_Case_of_China's_Hukou_System) *Modern China*: Forthcoming. (Pre-print [available here](https://www.researchgate.net/publication/353571706_Does_Governmental_Policy_Shape_Migration_Decisions_The_Case_of_China's_Hukou_System))
 
-Hu, Yue, and Zijie Shao. 2021. [“What Drives Chinese Internet Users to Watch State-Media Broadcasts? An Audience Analysis.”](https://www.researchgate.net/publication/353571814_What_Drives_Chinese_Internet_Users_to_Watch_State-Media_Broadcasts_An_Audience_Analysis) *Journal of Chinese Political Science*: Accepted. (Pre-print [available here](https://www.researchgate.net/publication/353571814_What_Drives_Chinese_Internet_Users_to_Watch_State-Media_Broadcasts_An_Audience_Analysis))
+Hu, Yue, Yufei Sun, and Donald Lien. 2022. [“The Resistance and Resilience of National Image Building: An Empirical Analysis of Confucius Institute Closures in the U.S.”](https://academic.oup.com/cjip/advance-article-abstract/doi/10.1093/cjip/poac010/6574938?redirectedFrom=fulltext) *Chinese Journal of International Politics* 15(3): Online. (Pre-print [available here](https://www.researchgate.net/publication/359845059_The_Resistance_and_Resilience_of_National_Image_Building_An_Empirical_Analysis_of_Confucius_Institute_Closures_in_the_US))
+
+Jiang, Qiaolei, Shiyu Liu, Yue Hu, and Jing Xu. 2022. [“Social Media for Health Campaign and Solidarity Among Chinses Fandom Publics During the Covid-19 Pandemic.”](https://www.frontiersin.org/article/10.3389/fpsyg.2021.824377) *Frontiers in Psychology: Health Psychology* 12: 824377.
+
+Hu, Yue, and Zijie Shao. 2021. [“What Drives Chinese Internet Users to Watch State-Media Broadcasts? An Audience Analysis.”](https://www.researchgate.net/publication/353571814_What_Drives_Chinese_Internet_Users_to_Watch_State-Media_Broadcasts_An_Audience_Analysis) *Journal of Chinese Political Science* 27(1): 19-40. (Pre-print [available here](https://www.researchgate.net/publication/353571814_What_Drives_Chinese_Internet_Users_to_Watch_State-Media_Broadcasts_An_Audience_Analysis))
 
 Hu, Yue, and Amy H. Liu. 2020. [“The Effects of Foreign Language Proficiency on Public Attitudes: Evidence from the Chinese-Speaking World.”](https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/effects-of-foreign-language-proficiency-on-public-attitudes-evidence-from-the-chinesespeaking-world/56277FA559EFC923958CC405566E6DDD?__cf_chl_jschl_tk__=pmd_9f85bc92b6ed02ea2e1eefa21596c04f8fd3f9b9-1627628614-0-gqNtZGzNAvijcnBszQp6) *Journal of East Asian Studies* 20(1): 1–23. (Pre-print [available here](https://www.researchgate.net/publication/339180227_THE_EFFECTS_OF_FOREIGN_LANGUAGE_PROFICIENCY_ON_PUBLIC_ATTITUDES_EVIDENCE_FROM_THE_CHINESE-SPEAKING_WORLD))
 
@@ -37,8 +41,14 @@ Tang, Wenfang, Yue Hu, and Shuai Jin. 2016. [“Affirmative Inaction: Language E
 
 Hu, Yue. 2013. [“Institutional Difference and Cultural Difference: A Comparative Study of Canadian and Chinese Cultural Diplomacy.”](https://brill.com/view/journals/jaer/20/2-3/article-p256_11.xml) *Journal of American-East Asian Relations* 20(2–3): 256–68. (Pre-print [available here](https://www.researchgate.net/publication/274986095_Institutional_Difference_and_Cultural_Difference_A_Comparative_Study_of_Canadian_and_Chinese_Cultural_Diplomacy))
 
+## Other Publications
+
+Hu, Yue. 2022. “Book Review: Amy H. Liu, The Language of Political Incorporation: Chinese Migrants in Europe.” *Journal of Chinese Overseas* 18(2): Forthcoming.
+
 
 ## Chinese Journal Articles
+
+季程远和胡悦: [《经济发展与纵向获得感》](http://jpa.sysu.edu.cn/docs/20220408160723090197.pdf), 《公共行政评论》2022年 86(2)期，第4–21页.
 
 胡悦：[《实验室实验：政治科学研究的一种有效方法?》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GWLD202106020&uniplatform=NZKPT&v=PJYfzUdELnpV-fTfaz1qhlzXK-PBjlfPmQ9ieLN3AwtLHnQA7zFItljLs4eCH3va)，《国外理论动态》2021年第06期, 第160-171页。
 

@@ -3,30 +3,34 @@ author: Yue Hu
 
 featured: true
 categories:
-- media
-- public opinions
+- political communication
+- public opinion
 - methodology
 
 date: "2021-07-29"
 draft: false
-excerpt: How state media engage in the New-Media Era
+excerpt: Perception, process, persuasion.
 layout: single
 
-title: Political Persuasion 
-subtitle: Media, Identity, and Active Audience
+title: Political Communication
+subtitle: Media, Persuasion, and Active Audience
 ---
 
 <img src="featured-hex.png" width = "260" height = "330" align="right" />
 
-I am interested in an age of the Internet and new media, how state media conduct their functions of political persuasion and political mobilization. I also wonder about how citizens consider and respond to state media and how they affect modern citizens' political cognition especially in non-Western countries.
+People do not merely respond to the outside world; they *recognize*, *process*, and make *choices*.
+I am interested in how this psychological process is achieved within media interactions among the sender, carrier, and receiver.
+This also makes my research different from the prevalent political-communication studies that focus on the content and means of the media.
+Instead, I focus more on how people respond to them, for instance, what the audience actually feels, understands, and does when they are exposed to a political message from the government.
+Even the more basic question is still puzzling and intriguing for research, such as who is the audience of state media, political propaganda, ideological arguments, etc, especially in the Chinese media environment.
 
-### Published Studies
+### Selected Publications
 
-Jiang, Qiaolei, Shiyu Liu, Yue Hu, and Jing Xu. 2022. [“Social Media for Health Campaign and Solidarity Among Chinses Fandom Publics During the Covid-19 Pandemic.”](https://www.frontiersin.org/article/10.3389/fpsyg.2021.824377) *Frontiers in Psychology: Health Psychology* 12: Online.
+Hu, Yue, Yufei Sun, and Donald Lien. 2022. [“The Resistance and Resilience of National Image Building: An Empirical Analysis of Confucius Institute Closures in the U.S.”](https://www.researchgate.net/publication/359845059_The_Resistance_and_Resilience_of_National_Image_Building_An_Empirical_Analysis_of_Confucius_Institute_Closures_in_the_US) *Chinese Journal of International Politics* 15(3): Forthcoming. (Pre-print [available here](https://www.researchgate.net/publication/359845059_The_Resistance_and_Resilience_of_National_Image_Building_An_Empirical_Analysis_of_Confucius_Institute_Closures_in_the_US))
 
-Hu, Yue, and Zijie Shao. 2021. [“What Drives Chinese Internet Users to Watch State-Media Broadcasts? An Audience Analysis.”](https://www.researchgate.net/publication/353571814_What_Drives_Chinese_Internet_Users_to_Watch_State-Media_Broadcasts_An_Audience_Analysis) *Journal of Chinese Political Science*: Accepted.
+Jiang, Qiaolei, Shiyu Liu, Yue Hu, and Jing Xu. 2022. [“Social Media for Health Campaign and Solidarity Among Chinses Fandom Publics During the Covid-19 Pandemic.”](https://www.frontiersin.org/article/10.3389/fpsyg.2021.824377) *Frontiers in Psychology: Health Psychology* 12: 824377.
 
-Hu, Yue. 2020. [“Refocusing Democracy: The Chinese Government’s Framing Strategy in Political Language.”](https://www.tandfonline.com/doi/abs/10.1080/13510347.2019.1690461) *Democratization* 72(2): 302–20.
+Hu, Yue, and Zijie Shao. 2021. [“What Drives Chinese Internet Users to Watch State-Media Broadcasts? An Audience Analysis.”](https://www.researchgate.net/publication/353571814_What_Drives_Chinese_Internet_Users_to_Watch_State-Media_Broadcasts_An_Audience_Analysis) *Journal of Chinese Political Science* 27(1): 19-40. (Pre-print [available here](https://www.researchgate.net/publication/353571814_What_Drives_Chinese_Internet_Users_to_Watch_State-Media_Broadcasts_An_Audience_Analysis))
 
 Hu, Yue. 2019. [“Are Informal Education Facilities Effective Means for Generating Political Support? A Spatial Analysis.”](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12589) *Social Science Quarterly* 100(3): 701–24.
 

@@ -9,6 +9,8 @@ link_list_label: "External Sources" # bookmarks, elsewhere, etc.
 link_list:
 - name: SWIID
   url: https://fsolt.org/swiid/
+- name: ICSS
+  url: https://css.sss.tsinghua.edu.cn/dmp/login
 ---
 
 ** index doesn't contain a body, just front matter above.

@@ -9,15 +9,15 @@ layout: single
 
 ## Peer Review Articles
 
-Tai, Yuehong, Yue Hu, and Frederick Solt. 2022. [“Democracy, Public Support, and Measurement Uncertainty.”](https://doi.org/10.1017/S0003055422000429) *American Political Science Review*: First View. (Pre-print [available here](https://osf.io/preprints/socarxiv/y5fdv/)) 
-
-Tang, Wenfang, and Yue Hu. 2022. [“Detecting Grassroots Bribery and its Sources in China: A Survey Experimental Approach”](https://www.researchgate.net/publication/356834671_Detecting_Grassroots_Bribery_and_its_Sources_in_China_A_Survey_Experimental_Approach) *China: An International Journal*: Forthcoming. (Pre-print [available here](https://www.researchgate.net/publication/356834671_Detecting_Grassroots_Bribery_and_its_Sources_in_China_A_Survey_Experimental_Approach))
-
 Hu, Yue, and Elise Pizzi. 2022. [“The Role of Language Policy in Migration Decisions.”](https://www.researchgate.net/publication/353571483_Breaking_Through_the_Linguistic_Barrier_The_Role_of_Language_Policy_in_Migration_Decisions) *China: An International Journal*: Forthcoming. (Pre-print [available here](https://www.researchgate.net/publication/353571483_Breaking_Through_the_Linguistic_Barrier_The_Role_of_Language_Policy_in_Migration_Decisions))
 
-Pizzi, Elise, and Yue Hu. 2022. [“Does Governmental Policy Shape Migration Decisions?The Case of China’s Hukou System.”](https://www.researchgate.net/publication/353571706_Does_Governmental_Policy_Shape_Migration_Decisions_The_Case_of_China's_Hukou_System) *Modern China*: Forthcoming. (Pre-print [available here](https://www.researchgate.net/publication/353571706_Does_Governmental_Policy_Shape_Migration_Decisions_The_Case_of_China's_Hukou_System))
+Tai, Yuehong, Yue Hu, and Frederick Solt. 2022. [“Democracy, Public Support, and Measurement Uncertainty.”](https://doi.org/10.1017/S0003055422000429) *American Political Science Review*: First View. (Pre-print [available here](https://osf.io/preprints/socarxiv/y5fdv/)) 
+
+Tang, Wenfang, and Yue Hu. 2022. [“Detecting Grassroots Bribery and its Sources in China: A Survey Experimental Approach”](https://www.tandfonline.com/doi/full/10.1080/10670564.2022.2071883) *Journal of Contemporary China*: Online. (Pre-print [available here](https://www.researchgate.net/publication/356834671_Detecting_Grassroots_Bribery_and_its_Sources_in_China_A_Survey_Experimental_Approach))
 
 Hu, Yue, Yufei Sun, and Donald Lien. 2022. [“The Resistance and Resilience of National Image Building: An Empirical Analysis of Confucius Institute Closures in the U.S.”](https://academic.oup.com/cjip/advance-article-abstract/doi/10.1093/cjip/poac010/6574938?redirectedFrom=fulltext) *Chinese Journal of International Politics* 15(3): Online. (Pre-print [available here](https://www.researchgate.net/publication/359845059_The_Resistance_and_Resilience_of_National_Image_Building_An_Empirical_Analysis_of_Confucius_Institute_Closures_in_the_US))
+
+Pizzi, Elise, and Yue Hu. 2022. [“Does Governmental Policy Shape Migration Decisions?The Case of China’s Hukou System.”](https://journals.sagepub.com/doi/abs/10.1177/00977004221087426) *Modern China*: Online. (Pre-print [available here](https://www.researchgate.net/publication/353571706_Does_Governmental_Policy_Shape_Migration_Decisions_The_Case_of_China's_Hukou_System))
 
 Jiang, Qiaolei, Shiyu Liu, Yue Hu, and Jing Xu. 2022. [“Social Media for Health Campaign and Solidarity Among Chinses Fandom Publics During the Covid-19 Pandemic.”](https://www.frontiersin.org/article/10.3389/fpsyg.2021.824377) *Frontiers in Psychology: Health Psychology* 12: 824377.
 

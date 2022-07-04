@@ -7,6 +7,8 @@ show_social_links: true # specify social accounts in site config
 audio_link_label: "" # leave blank to exclude
 link_list_label: "External Sources" # bookmarks, elsewhere, etc.
 link_list:
+- name: DCPO
+  url: https://dcpo.org/
 - name: SWIID
   url: https://fsolt.org/swiid/
 - name: ICSS

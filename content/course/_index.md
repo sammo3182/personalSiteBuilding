@@ -5,11 +5,15 @@ layout: list-sidebar # list, list-sidebar
 
 # for list-sidebar layout
 sidebar:
-  title: Courses
+  title: Teaching 教学
   description: |
-    I teach substantive and method courses at both undergraduate and graduate level.
-    The right sections collect the course briefs and preview slides.
-    Free to learn more about them by contacting me directly.
+    I instruct both substantive courses in political science and methodological courses in computational social science. 
+    The right-hand section provides a list of the courses currently available, complete with brief descriptions.
+    Feel free to reach out for additional information.
+    
+    我讲授政治科学和计算社会科学的专业课程与方法课程。
+    页面右侧列出了我当前开设的各门课程及其简要介绍。
+    若需要更多信息，请随时与我联系。
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/

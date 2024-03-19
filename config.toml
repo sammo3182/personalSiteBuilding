@@ -113,28 +113,28 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
-    title = "About"
+    name = "About 关于我"
+    title = "About 关于我"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Publications"
-    title = "Academic Publications"
+    name = "Publications 发表"
+    title = "Academic Publications 学术发表"
     url = "/publication/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Researching Projects"
+    name = "Projects 项目"
+    title = "Researching Projects 研究项目"
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Software"
-    title = "Software"
+    name = "Software 软件"
+    title = "Software 软件"
     url = "/software/"
     weight = 4
   [[menu.header]]
-    name = "Courses"
-    title = "Course Intro"
+    name = "Teaching 教学"
+    title = "Course Intro 教学信息"
     url = "/course/"
     weight = 5
 #  [[menu.header]]

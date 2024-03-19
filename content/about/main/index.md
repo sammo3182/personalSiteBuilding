@@ -1,28 +1,37 @@
 ---
 ## Configure page content in wide column
-title: "About Me" # leave blank to exclude
+
+title: "About Me 关于我" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: true # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 
 intro: |
-  I became a political scientist after receiving a Ph.D. in political science from the University of Iowa.
-  As a political comparativist, my primary interest lies in exploring the **government-mass relationship** in the Chinese case and cross-nationally using **political-psychological, political-linguistic, and political-economic approaches**. 
-  My recent research focuses on how perceptive inequality, sociopolitical identities, and language choice influence citizens' political cognition and responses to the government, institutions, and regime. 
+  I obtained my Ph.D. in political science from the University of Iowa in 2018. 
+  As a comparativist in this field, I delve into the **micro-foundations of government-public interactions**, focusing on both the Chinese context and a global comparison through political-psychological, political-linguistic, and political-economic lenses. 
+  My recent work scrutinizes the effects of perceived inequality, urbanization-driven identity shifts, and state media and online political participation, among others. 
+  In the realm of political methodology, my interests span developing **experimental designs for laboratories and surveys**, as well as enhancing spatial and network analysis, textual scrutiny, and the exploration of latent variables.
   
-  As a political methodologist, I am interested in developing methods for **lab and survey experiments, spatial and network analyses, text analysis, and latent variable analysis**.
-  Some of my published and ongoing projects include adjusting matched-guise experiments, list experiments reuse, and the **Dynamic Comparative Political Opinions (DCPO)** for public-opinion analyses across surveys, countries, and time. 
-  And, I am an avid fan of data visualization.
+  Since joining Tsinghua University in 2019, I have contributed as a faculty member, imparting knowledge in public policy analysis, foundations of political methodology, and the application of big data in governance. 
+  I initiated the year-long "*Learning R with Dr. Hu and his friends*" workshop to improve liberal-art students' competence in computational science. 
+  Additionally, I hold deputy directorships at both the Institute of Computational Social Science (Laboratory of Computational Social Science and State Governance) and the Center on Data and Governance at Tsinghua. 
+  Starting in spring 2021, I embraced roles as the Capstone Advisor at Schwarzman College of Tsinghua and as a [Github Education Campus Advisor](https://education.github.com/teachers/advisors) in China, furthering my engagement with academic and professional development initiatives.
   
-  As a faculty member, I have worked for Tsinghua since 2019. 
-  I teach such as **public policy analysis, intro to political science, political method foundations, and big data analysis for governance**. 
-  I am also the founder of **"Learning R with Dr. Hu" year-long workshop** and serve as the deputy directors of the Institute of Computational Social Science (清华大学计算社会科学平台) and the Center on Data and Governance at Tsinghua (清华数据治理中心).
-  Since the spring of 2021, I've become a [Github Campus Advisor](https://education.github.com/teachers/advisors) and striven to promote version-control skills among students and anyone who are interested.
+  See more information in my [CV](https://github.com/sammo3182/cv/blob/master/Hu_CV_en.pdf).
   
-  See my curriculum vitae [here](https://github.com/sammo3182/cv/blob/master/Hu_CV_en.pdf).
-  The Chinese version (中文简历) is [here](https://github.com/sammo3182/cv/blob/master/Hu_CV_cn.pdf).
+  我2018年在美国爱荷华大学获得政治学博士学位。
+  作为比较政治学的研究者，我专注于探究**政府与公众互动的微观基础**，既关注中国的案例，也进行国际比较，研究视角涉及政治心理学、政治语言学和政治经济学。
+  近期的研究聚焦于探讨感知不平等、新型城市化引发的身份变迁，以及官方媒体受众与在线政治参与等。
+  在政治方法学领域，我对于发展实验室与调查的实验设计、空间与网络分析、文本分析以及潜在变量分析等方法特别感兴趣。
   
+  自2019年起，我在清华大学担任教职及博士生导师，教授公共政策分析、政治方法论基础以及大数据治理应用等课程。
+  我还创立了为期一年的“与胡博士及其朋友们学习R”的工作坊，旨在提升文科学生的计算科学能力。
+  同时，我还在清华大学计算社会科学与国家治理实验室（计算社会科学研究所）和数据与治理中心担任副主任。
+  从2021年春季开始，我开始担任清华大学苏世民学院的论文，以及Github教育中国地区[校园顾问](https://education.github.com/teachers/advisors)，进一步投身于学术和专业发展的多项活动。
+  
+  更多个人信息，可见[简历](https://github.com/sammo3182/cv/blob/master/Hu_CV_cn.pdf)。
+
 
 show_outro: false
 outro: |

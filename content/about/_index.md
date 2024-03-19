@@ -5,7 +5,7 @@ description: |
   A website template for Hugo developed by RStudio & Formspree and available for free.
 show_header: false
 sidebar_left: false
-title: About
+title: "About 关于我"
 ---
 
 ** index doesn't contain a body, just front matter above.

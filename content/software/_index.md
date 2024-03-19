@@ -18,11 +18,17 @@ cascade:
 # for list-sidebar layout
 sidebar: 
   description: |
-    **Package Specialties** 
-    + Data scrapping
-    + Geocode conversion
-    + Latent variable analysis
-    + Data visualization
+    **Software specialty**    
+    **软件用途** 
+    + Data visualization    
+        可视化
+    + Data scrapping    
+        数据收集
+    + Geocode conversion    
+        行政区划转换
+    + Latent variable analysis     
+        潜变量分析
+
     
 ---
 

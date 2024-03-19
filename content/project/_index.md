@@ -1,7 +1,9 @@
 ---
 author: HU Yue
-title: Projects
-description: Ongoing Research Clusters and Teamwork
+title: Projects 项目
+description: |
+    Ongoing Research Clusters and Teamwork   
+    在研与合作项目
 
 layout: list-grid
 

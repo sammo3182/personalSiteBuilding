@@ -1,6 +1,6 @@
 ---
 author: HU Yue
-title: Selected Publications 学术发表
+title: Selected Publications 学术发表（摘选）
 date: "2021-07-29"
 draft: false
 subtitle: See the selected list of academic publications (links and pre-print pdf). 
@@ -25,10 +25,6 @@ Hu, Yue, Yufei Sun, and Donald Lien. 2022. [“The Resistance and Resilience of 
 
 Pizzi, Elise, and Yue Hu. 2022. [“Does Governmental Policy Shape Migration Decisions? The Case of China’s Hukou System.”](https://doi.org/10.1177/00977004221087426) *Modern China* 48(5): 1050–79.  (Pre-print [available here](https://www.researchgate.net/publication/353571706_Does_Governmental_Policy_Shape_Migration_Decisions_The_Case_of_China's_Hukou_System))
 
-Jiang, Qiaolei, Shiyu Liu, Yue Hu, and Jing Xu. 2022. [“Social Media for Health Campaign and Solidarity among Chinses Fandom Publics during the Covid-19 Pandemic.”](https://doi.org/10.3389/fpsyg.2021.824377) *Frontiers in Psychology: Health Psychology* 12: 824377. .
-
-Kong, Lingfeng, Tianbo Zhang, Changjing Zhou, Miguel-Angel Gomez, Yue Hu, and Shaoliang Zhang. 2022. [“The Evaluation of Playing Styles Integrating with Contextual Variables in Professional Soccer.”](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1002566) *Frontiers in Psychology* 13:1002566.
-
 Hu, Yue, and Amy H. Liu. 2020. [“The Effects of Foreign Language Proficiency on Public Attitudes: Evidence from the Chinese-Speaking World.”](https://doi.org/10.1017/jea.2019.41) *Journal of East Asian Studies* 20(1): 1–23. (Pre-print [available here](https://www.researchgate.net/publication/339180227_THE_EFFECTS_OF_FOREIGN_LANGUAGE_PROFICIENCY_ON_PUBLIC_ATTITUDES_EVIDENCE_FROM_THE_CHINESE-SPEAKING_WORLD))
 
 Hu, Yue. 2020a. [“Culture Marker Versus Authority Marker: How Do Language Attitudes Affect Political Trust?”](https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12646) *Political Psychology* 41(4): 699–716. (Pre-print [available here](https://www.researchgate.net/publication/338460629_Culture_Marker_Versus_Authority_Marker_How_Do_Language_Attitudes_Affect_Political_Trust))
@@ -45,20 +41,12 @@ Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, Dong 'Erico' Yu. 2017. [“
 
 Tang, Wenfang, Yue Hu, and Shuai Jin. 2016. [“Affirmative Inaction: Language Education and Labor Mobility among China’s Muslim Minorities.”](https://www.tandfonline.com/doi/abs/10.1080/21620555.2016.1202753) *Chinese Sociological Review* 48(4): 346–66. (Pre-print [available here](https://www.researchgate.net/publication/308010441_Affirmative_Inaction_Education_Language_Proficiency_and_Socioeconomic_Attainment_Among_China's_Uyghur_Minority))
 
-Hu, Yue. 2013. [“Institutional Difference and Cultural Difference: A Comparative Study of Canadian and Chinese Cultural Diplomacy.”](https://brill.com/view/journals/jaer/20/2-3/article-p256_11.xml) *Journal of American-East Asian Relations* 20(2–3): 256–68. (Pre-print [available here](https://www.researchgate.net/publication/274986095_Institutional_Difference_and_Cultural_Difference_A_Comparative_Study_of_Canadian_and_Chinese_Cultural_Diplomacy))
-
-## Other Publication 其他发表
-
-Hu, Yue. 2022. [“Book Review: Amy Liu’s the Language of Political Incorporation: Chinese Migrants in Europe. Philadelphia: Temple University Press, 2021.”](https://doi.org/10.1163/17932548-12341472) *Journal of Chinese Overseas* 18(2): 385–87. 
-
 
 ## Chinese Articles 中文文章
 
 胡悦和李睿哲: [《城市治理的时间悖论与动态治理》](https://kns.cnki.net/kcms2/article/abstract?v=sf24_f5fySYkSZJMoV3xY4oJk6h4DJJzasTak5Lkg-gIQMcoJkwg0qzJzyvlOBqG8088XOLRQXftYX53IqHak3CkPrS5xORBfN0Xa4DeLoGiUYUyPSXTUBW9X1UPaZOozn5daCWJ46k=&uniplatform=NZKPT&language=CHS)，《南京大学学报(哲学·人文科学·社会科学)》2023年第 60(6)期，第96-111+159-160页.
 
 胡悦和欧阳睿：[《软实力与硬实力关系研究——基于网络分析的实证研究》](https://kns.cnki.net/kcms2/article/abstract?v=3Nyamzb2at7hMYG3SmAlpyloW_NvfOwUh9LY2lRJ__vjQNsnjfyhQ46p-qemiwl1eWEBgwkGUioPM8FzYW39JcoHDyGqMWXCGoV4yV0-3tVUS_0RROxt0g==&uniplatform=NZKPT)，《世界经济与政治》2023年第7期，第27-50+156-157页。
-
-胡悦： [《如何理解新时代政治学研究方法的开创性》](https://share.gmw.cn/www/xueshu/2023-09/05/content_36811915.htm) 光明网·学术频道 (2023-09-05).
 
 胡悦和朱萌：[《以语塑心与国民治理：外语习得对政治认知能力的塑造机制研究》](https://doi.org/10.15944/j.cnki.33-1010/d.2022.04.007)， 《治理研究》2022年第38（04）期，第51-65+125页。
 
@@ -69,6 +57,3 @@ Hu, Yue. 2022. [“Book Review: Amy Liu’s the Language of Political Incorporat
 胡悦、朱毓朝：[《“问题与主义”导向之争——西方比较政治学沿革及其借鉴意义》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2011&filename=TJSK201103008&v=wJomofbuZ4BfC2UpSmZz4katzB3srKnBFu84np7U1HnyjYqD2oeSdWCADTA2dJ1y)，《天津社会科学》 2011年第03期, 第46-50页。
 
 程同顺、胡悦：[《对外政策的文化道具——浅析文明冲突论的工具性》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2010&filename=XXNT201002009&v=qqRDE%25mmd2BK%25mmd2F8maCjhRqamQy24y594BLoBshF93MAaD1F85IJfnYs9FU5tZ6bOIfKFJ5)，《学习论坛》 2010年第02期, 第33-37页。
-
-胡悦：[《从政治科学角度分析人民政协的政治定位》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2009&filename=TJSH200901008&v=AMA6ZfyGEWjizyk4k6oyXpPAEZQLT%25mmd2B3TtEAgjx8Z4MDPoVoca18YOYXajOKdvSox)，《天津市社会主义学院学报》 2009年第01期, 第19-23页。
-

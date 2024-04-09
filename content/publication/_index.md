@@ -1,11 +1,15 @@
 ---
 author: HU Yue
-title: Selected Publications 学术发表（摘选）
+title: Selected Publications 
 date: "2021-07-29"
 draft: false
-subtitle: See the selected list of academic publications (links and pre-print pdf). 
+subtitle: 学术发表（摘选）
 layout: single
 ---
+
+See the full list of my publications [here](https://github.com/sammo3182/cv/blob/master/Hu_CV_en.pdf).
+
+学术发表的完整列表见[简历](https://github.com/sammo3182/cv/blob/master/Hu_CV_cn.pdf)。
 
 ## Peer Review Article 同行评议文章
 
@@ -17,23 +21,15 @@ Tai, Yuehong, Yue Hu, and Frederick Solt. 2024. [“Democracy, Public Support, a
 
 Tang, Wenfang, and Yue Hu. 2022. [“Detecting Grassroots Bribery and Its Sources in China: A Survey Experimental Approach.”](https://doi.org/10.1080/10670564.2022.207188) *Journal of Contemporary China* 32(140): 207–24. (Pre-print [available here](https://www.researchgate.net/publication/356834671_Detecting_Grassroots_Bribery_and_its_Sources_in_China_A_Survey_Experimental_Approach))
 
-Hu, Yue, and Elise Pizzi. 2022. [“Breaking through the Language Barrier: The Role of Language Policy in Migration Decisions.”](https://doi.org/10.1353/chn.2022.0022) *China: An International Journal* 20(3): 23–51.(Pre-print [available here](https://www.researchgate.net/publication/353571483_Breaking_Through_the_Linguistic_Barrier_The_Role_of_Language_Policy_in_Migration_Decisions))
-
 Hu, Yue, and Zijie Shao. 2022. [“What Drives Chinese Internet Users to Watch State-Media Broadcasts? An Audience Analysis.”](https://doi.org/10.1007/s11366-021-09756-1) *Journal of Chinese Political Science* 27(1): 19–40. (Pre-print [available here](https://www.researchgate.net/publication/353571814_What_Drives_Chinese_Internet_Users_to_Watch_State-Media_Broadcasts_An_Audience_Analysis))
 
 Hu, Yue, Yufei Sun, and Donald Lien. 2022. [“The Resistance and Resilience of National Image Building: An Empirical Analysis of Confucius Institute Closures in the U.S.”](https://doi.org/10.1093/cjip/poac010) *Chinese Journal of International Politics* 15(3): 209–26. (Collected by [*New Directions in the Study of China's Foreign Policy: A CJIP Reader*](https://academic.oup.com/cjip/pages/new-directions-in-the-study-of-chinas-foreign-policy), Pre-print [available here](https://www.researchgate.net/publication/359845059_The_Resistance_and_Resilience_of_National_Image_Building_An_Empirical_Analysis_of_Confucius_Institute_Closures_in_the_US))
-
-Pizzi, Elise, and Yue Hu. 2022. [“Does Governmental Policy Shape Migration Decisions? The Case of China’s Hukou System.”](https://doi.org/10.1177/00977004221087426) *Modern China* 48(5): 1050–79.  (Pre-print [available here](https://www.researchgate.net/publication/353571706_Does_Governmental_Policy_Shape_Migration_Decisions_The_Case_of_China's_Hukou_System))
-
-Hu, Yue, and Amy H. Liu. 2020. [“The Effects of Foreign Language Proficiency on Public Attitudes: Evidence from the Chinese-Speaking World.”](https://doi.org/10.1017/jea.2019.41) *Journal of East Asian Studies* 20(1): 1–23. (Pre-print [available here](https://www.researchgate.net/publication/339180227_THE_EFFECTS_OF_FOREIGN_LANGUAGE_PROFICIENCY_ON_PUBLIC_ATTITUDES_EVIDENCE_FROM_THE_CHINESE-SPEAKING_WORLD))
 
 Hu, Yue. 2020a. [“Culture Marker Versus Authority Marker: How Do Language Attitudes Affect Political Trust?”](https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12646) *Political Psychology* 41(4): 699–716. (Pre-print [available here](https://www.researchgate.net/publication/338460629_Culture_Marker_Versus_Authority_Marker_How_Do_Language_Attitudes_Affect_Political_Trust))
 
 ———. 2020b. [“Refocusing Democracy: The Chinese Government’s Framing Strategy in Political Language.”](https://www.tandfonline.com/doi/abs/10.1080/13510347.2019.1690461) *Democratization* 72(2): 302–20. (Pre-print [available here](https://www.researchgate.net/publication/337277653_Refocusing_democracy_the_Chinese_government's_framing_strategy_in_political_language))
 
 Hu, Yue. 2019. [“Are Informal Education Facilities Effective Means for Generating Political Support? A Spatial Analysis.”](https://onlinelibrary.wiley.com/doi/full/10.1111/ssqu.12589) *Social Science Quarterly* 100(3): 701–24. (Pre-print [available here](https://www.researchgate.net/publication/330850702_Are_Informal_Education_Facilities_Effective_Means_for_Generating_Political_Support_A_Spatial_Analysis))
-
-Claypool, Vicki Hesli, William Reisinger, Marina Zaloznaya, Yue Hu, and Jenny Juehring. 2018. [“Tsar Putin and the ‘Corruption’ Thorn in His Side: The Demobilization of Votes in a Competitive Authoritarian Regime.”](https://dialnet.unirioja.es/servlet/articulo?codigo=6539661) *Electoral Studies* 54: 182–204. (Pre-print [available here](https://www.researchgate.net/publication/325717067_Tsar_Putin_and_the_corruption_thorn_in_his_side_The_demobilization_of_votes_in_a_competitive_authoritarian_regime))
 
 Solt, Frederick, Yue Hu, Kevan Hudson, Jungmin Song, Dong 'Erico' Yu. 2017. [“Economic Inequality and Class Consciousness.”](https://www.journals.uchicago.edu/doi/abs/10.1086/690971) *The Journal of Politics* 79(3): 1079–83. (Pre-print [available here](https://www.researchgate.net/publication/317072456_Economic_Inequality_and_Class_Consciousness))
 
@@ -55,5 +51,3 @@ Tang, Wenfang, Yue Hu, and Shuai Jin. 2016. [“Affirmative Inaction: Language E
 胡悦：[《实验室实验：政治科学研究的一种有效方法?》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GWLD202106020&uniplatform=NZKPT&v=PJYfzUdELnpV-fTfaz1qhlzXK-PBjlfPmQ9ieLN3AwtLHnQA7zFItljLs4eCH3va)，《国外理论动态》2021年第06期，第160-171页。
 
 胡悦、朱毓朝：[《“问题与主义”导向之争——西方比较政治学沿革及其借鉴意义》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2011&filename=TJSK201103008&v=wJomofbuZ4BfC2UpSmZz4katzB3srKnBFu84np7U1HnyjYqD2oeSdWCADTA2dJ1y)，《天津社会科学》 2011年第03期, 第46-50页。
-
-程同顺、胡悦：[《对外政策的文化道具——浅析文明冲突论的工具性》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2010&filename=XXNT201002009&v=qqRDE%25mmd2BK%25mmd2F8maCjhRqamQy24y594BLoBshF93MAaD1F85IJfnYs9FU5tZ6bOIfKFJ5)，《学习论坛》 2010年第02期, 第33-37页。

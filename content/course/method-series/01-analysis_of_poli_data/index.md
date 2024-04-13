@@ -31,9 +31,3 @@ Along the way and primarily in the lab session, students will learn the basics o
 
 课程绰号“*大样本分析与列文虎克*”，是受到[一位B站Up主](https://space.bilibili.com/195312946/favlist?fid=941316546&ftype=create)启发，意在指出课程区别于一般方法应用课程的独到之处在于，一步步“挖掘、验证、辟谣、欣赏”大样本分析中那些“广为人知或鲜为人知”的细节与精妙之处。
 
-
-### Preview Slides
-
-[Course Introduction](https://sammo3182.github.io/slides_gh/slides/courses/analysisOfPoliticalData/01_courseIntro.html)
-
-

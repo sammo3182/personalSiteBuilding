@@ -4,7 +4,7 @@ subtitle: Computational Social Science Learning Certificate in Programming
 author: Yue Hu
 excerpt: Year-long programming workshop and certificate program
 
-date: "2021-06-29"
+date: "2021-07-29"
 draft: false
 
 featured: true

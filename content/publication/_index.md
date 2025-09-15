@@ -13,7 +13,7 @@ See the full list of my publications [here](https://github.com/sammo3182/cv/blob
 
 ## Peer Review Article 同行评议文章
 
-**Hu, Yue**, and Frederick Solt. 2025. “Macrointerest Across Countries.” *British Journal of Political Science* 55: e71. doi:10.1017/S0007123424001042. (Pre-print [available here](https://fsolt.org/papers/solt2023_pre))
+**Hu, Yue**, and Frederick Solt. 2025. “Macrointerest Across Countries.” *British Journal of Political Science* 55: e71. (Pre-print [available here](https://fsolt.org/papers/solt2023_pre))
 
 **Hu, Yue**, Yuehong Cassandra Tai, Kyein Ko, Byung-Deuk Woo, and Frederick Solt. 2025. [“An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.”](https://doi:10.1177/20531680251341857) *Research & Politics* 12(2): 20531680251341857. (Pre-print [available here](https://fsolt.org/papers/hutaikowoosolt2023_pre))
 
@@ -45,20 +45,20 @@ Tang, Wenfang, **Yue Hu**, and Shuai Jin. 2016. [“Affirmative Inaction: Langua
 
 ## Chinese Articles 中文文章
 
-胡悦, 孙宇飞和陈子怡：[《扣动公心之弦：公共服务动机激发机制适用性与稳定性研究》](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDAUTO&filename=GGZC202501006)，《公共管理与政策评论》2025年第1期，第54～71页。
+**胡悦**, 孙宇飞和陈子怡：[《扣动公心之弦：公共服务动机激发机制适用性与稳定性研究》](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDAUTO&filename=GGZC202501006)，《公共管理与政策评论》2025年第1期，第54～71页。
 
-胡悦, 孙宇飞和汤霓：《灌输·信号·说服：思想政治教育政治社会化效果的实验研究》，《政治与公共管理研究》2025年第1期，第123～41页。
+**胡悦**, 孙宇飞和汤霓：《灌输·信号·说服：思想政治教育政治社会化效果的实验研究》，《政治与公共管理研究》2025年第1期，第123～41页。
 
-姬生翔, 卢腾和胡悦：[《探究政治行为的生理基础：基于眼动追踪的跨学科研究路径》，《国外理论动态》](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDAUTO&filename=GWLD202501016)2025年第1期，第166～76页。
+姬生翔, 卢腾和**胡悦**：[《探究政治行为的生理基础：基于眼动追踪的跨学科研究路径》，《国外理论动态》](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDAUTO&filename=GWLD202501016)2025年第1期，第166～76页。
 
-胡悦和李睿哲: [《城市治理的时间悖论与动态治理》](https://kns.cnki.net/kcms2/article/abstract?v=sf24_f5fySYkSZJMoV3xY4oJk6h4DJJzasTak5Lkg-gIQMcoJkwg0qzJzyvlOBqG8088XOLRQXftYX53IqHak3CkPrS5xORBfN0Xa4DeLoGiUYUyPSXTUBW9X1UPaZOozn5daCWJ46k=&uniplatform=NZKPT&language=CHS)，《南京大学学报(哲学·人文科学·社会科学)》2023年第 60(6)期，第96-111+159-160页。
+**胡悦**和李睿哲: [《城市治理的时间悖论与动态治理》](https://kns.cnki.net/kcms2/article/abstract?v=sf24_f5fySYkSZJMoV3xY4oJk6h4DJJzasTak5Lkg-gIQMcoJkwg0qzJzyvlOBqG8088XOLRQXftYX53IqHak3CkPrS5xORBfN0Xa4DeLoGiUYUyPSXTUBW9X1UPaZOozn5daCWJ46k=&uniplatform=NZKPT&language=CHS)，《南京大学学报(哲学·人文科学·社会科学)》2023年第 60(6)期，第96-111+159-160页。
 
-胡悦和欧阳睿：[《软实力与硬实力关系研究——基于网络分析的实证研究》](https://kns.cnki.net/kcms2/article/abstract?v=3Nyamzb2at7hMYG3SmAlpyloW_NvfOwUh9LY2lRJ__vjQNsnjfyhQ46p-qemiwl1eWEBgwkGUioPM8FzYW39JcoHDyGqMWXCGoV4yV0-3tVUS_0RROxt0g==&uniplatform=NZKPT)，《世界经济与政治》2023年第7期，第27-50+156-157页。
+**胡悦**和欧阳睿：[《软实力与硬实力关系研究——基于网络分析的实证研究》](https://kns.cnki.net/kcms2/article/abstract?v=3Nyamzb2at7hMYG3SmAlpyloW_NvfOwUh9LY2lRJ__vjQNsnjfyhQ46p-qemiwl1eWEBgwkGUioPM8FzYW39JcoHDyGqMWXCGoV4yV0-3tVUS_0RROxt0g==&uniplatform=NZKPT)，《世界经济与政治》2023年第7期，第27-50+156-157页。
 
-胡悦和朱萌：[《以语塑心与国民治理：外语习得对政治认知能力的塑造机制研究》](https://doi.org/10.15944/j.cnki.33-1010/d.2022.04.007)， 《治理研究》2022年第38（04）期，第51-65+125页。
+**胡悦**和朱萌：[《以语塑心与国民治理：外语习得对政治认知能力的塑造机制研究》](https://doi.org/10.15944/j.cnki.33-1010/d.2022.04.007)， 《治理研究》2022年第38（04）期，第51-65+125页。
 
-季程远和胡悦: [《经济发展与纵向获得感》](http://jpa.sysu.edu.cn/docs/20220408160723090197.pdf)，《公共行政评论》2022年 86(2)期，第4–21页。
+季程远和**胡悦**: [《经济发展与纵向获得感》](http://jpa.sysu.edu.cn/docs/20220408160723090197.pdf)，《公共行政评论》2022年 86(2)期，第4–21页。
 
-胡悦：[《实验室实验：政治科学研究的一种有效方法?》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GWLD202106020&uniplatform=NZKPT&v=PJYfzUdELnpV-fTfaz1qhlzXK-PBjlfPmQ9ieLN3AwtLHnQA7zFItljLs4eCH3va)，《国外理论动态》2021年第06期，第160-171页。
+**胡悦**：[《实验室实验：政治科学研究的一种有效方法?》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=GWLD202106020&uniplatform=NZKPT&v=PJYfzUdELnpV-fTfaz1qhlzXK-PBjlfPmQ9ieLN3AwtLHnQA7zFItljLs4eCH3va)，《国外理论动态》2021年第06期，第160-171页。
 
-胡悦、朱毓朝：[《“问题与主义”导向之争——西方比较政治学沿革及其借鉴意义》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2011&filename=TJSK201103008&v=wJomofbuZ4BfC2UpSmZz4katzB3srKnBFu84np7U1HnyjYqD2oeSdWCADTA2dJ1y)，《天津社会科学》 2011年第03期, 第46-50页。
+**胡悦**、朱毓朝：[《“问题与主义”导向之争——西方比较政治学沿革及其借鉴意义》](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2011&filename=TJSK201103008&v=wJomofbuZ4BfC2UpSmZz4katzB3srKnBFu84np7U1HnyjYqD2oeSdWCADTA2dJ1y)，《天津社会科学》 2011年第03期, 第46-50页。

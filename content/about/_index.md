@@ -1,8 +1,10 @@
 ---
+# Keep this! Without it the cascade below applies to /about/ itself and Hugo stops
+# generating the About page entirely. See themes/hugo-apero/exampleSite/content/about/_index.md.
+headless: false
 cascade:
   headless: true
-description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+description: "About Yue Hu, political scientist at Tsinghua University, studying political psychology, the politics of language, and computational political science."
 show_header: false
 sidebar_left: false
 title: "About 关于我"

@@ -19,5 +19,9 @@ options(
   blogdown.method = 'html'
 )
 
-# fix Hugo version
-#options(blogdown.hugo.version = "0.98.0")
+# Pin the Hugo version. Without this, a new machine, a blogdown update, or a stray
+# blogdown::install_hugo() can silently move the build to a Hugo that breaks the
+# vendored hugo-apero theme. 0.124.0 is the version installed at
+# C:/Users/yuehu/AppData/Roaming/Hugo/0.124.0 and the one blogdown::hugo_version()
+# resolves to. See themes/hugo-apero/VENDORED_VERSION.txt before changing this.
+options(blogdown.hugo.version = "0.124.0")

@@ -8,7 +8,7 @@ cascade:
   series: Method Courses for "Non-Math" Students # must stay here to show
   author: HU Yue
   show_author_byline: false
-  show_post_date: true
+  show_post_date: false
   sidebar:
     show_sidebar_adunit: false
     text_contents_label: On this page
@@ -21,7 +21,7 @@ title:  Method Courses for "Non-Math" Students
 subtitle: 新文科方法课程
 
 description: |
-  The courses are specially designed for students who *have an interest* of quantitative methods but *don't* have a mathematical, statistical, or econometric background.
+  The courses are specially designed for students who *have an interest* in quantitative methods but *don't* have a mathematical, statistical, or econometric background.
   Different from applied-method courses, students are expected to learn *not only how but why* to use a certain method in these courses.
   
   这里列出的是我的新文科方法课程系列。

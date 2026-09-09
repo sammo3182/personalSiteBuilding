@@ -1,1 +1,24 @@
 // Override this file to add your own SCSS styling.
+
+// Software listing page: render the package hex stickers at half the theme's
+// default width. The theme gives the thumbnail 100% of the row on narrow
+// screens and 40% from the -ns breakpoint up; these halve both, and hand the
+// freed space to the text column so no gap opens beside the sticker.
+//
+// Scoped to `.software-list`, a hook added by layouts/blog/list-sidebar.html,
+// so the /course/ listing keeps the theme's original sizing.
+.software-list {
+  article > div > figure {
+    width: 50%;
+  }
+
+  // Tachyons' -ns breakpoint
+  @media screen and (min-width: 30em) {
+    article > div > figure {
+      width: 20%;
+    }
+    article > div > div {
+      width: 80%;
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{{/*
+  Project override of themes/hugo-apero/layouts/blog/list-sidebar.html
+
+  Identical to the theme's version except for one addition: a `{{ .Section }}-list`
+  class on the content wrapper. The theme renders /software/ and /course/ with
+  byte-identical wrapper classes, so there was no way to style one without the
+  other. This gives each section its own hook (`software-list`, `course-list`).
+
+  Used by assets/custom.scss to halve the hex sticker size on /software/ only.
+  Keep in sync if the vendored theme is ever updated.
+*/}}
+{{ define "main" }}
+{{ $caller := . }}
+<main class="page-main pa4 {{ .Kind }}" role="main">
+  <section class="blog-content mw7 center {{ .Section }}-list">
+    {{ $paginator := .Paginate (where .RegularPagesRecursive "Type" "blog").ByDate.Reverse }}
+      {{ range $paginator.Pages }}
+        {{ .Scratch.Set "$root" $caller }}
+        {{ partial "shared/summary" . }}
+      {{ end }}
+    {{ partial "shared/list-pagination.html" . }}
+  </section>
+</main>
+<aside class="page-sidebar" role="complementary">
+  {{ partial "shared/sidebar-scaffold.html" . }}
+</aside>
+{{ end }}

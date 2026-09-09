@@ -6,7 +6,7 @@ categories:
 - methodology
 - visualization
 
-date: "2020-11-01"
+date: "2026-06-24"
 featured: true
 draft: false
 
@@ -27,7 +27,7 @@ links:
 
 <img src="featured-hex.png" width = "134.435" height = "155.25"  align="right" />
 
-Solt, Frederick, and **Yue Hu**. 2015. dotwhisker: Dot-and-Whisker Plots of Regression Results. The Comprehensive R Archive Network (CRAN). 
+Solt, Frederick, **Yue Hu**, Ben Bolker, Os Keyes, Stefan Müller, Thomas Leeper, Chris Wallace, and Christopher Warshaw. 2026. dotwhisker: Dot-and-Whisker Plots of Regression Results. R package version 0.8.6. The Comprehensive R Archive Network (CRAN).
 
 [![CRAN version](http://www.r-pkg.org/badges/version/dotwhisker)](https://cran.r-project.org/web/packages/dotwhisker/index.html)![](http://cranlogs.r-pkg.org/badges/grand-total/dotwhisker)![](http://cranlogs.r-pkg.org/badges/dotwhisker?color=orange)
 

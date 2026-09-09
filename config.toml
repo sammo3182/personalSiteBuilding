@@ -5,7 +5,7 @@ theme = "hugo-apero"
 languageCode = "en"
 title = "Hu Yue"
 author = "Yue Hu"
-copyright = "&copy; 2021" # set to override the auto generated copyright using org info and now year
+copyright = "" # empty = auto-generate "© <build year> <orgName>, <orgLocal>" so it never goes stale
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"

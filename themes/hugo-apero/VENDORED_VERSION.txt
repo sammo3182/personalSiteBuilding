@@ -1,0 +1,52 @@
+hugo-apero — vendored copy
+==========================
+
+This directory is a VENDORED SNAPSHOT of the hugo-apero theme, committed as ordinary
+files. It is not a git submodule and not a Hugo module. Nothing updates it
+automatically, and nothing can change it underneath us. That is deliberate.
+
+Upstream
+--------
+Repository : https://github.com/hugo-apero/hugo-apero
+Corresponds to commit : a1e94ff  (2025-02-24, "privacy setting update for X/Twitter DNT")
+                        — upstream's HEAD on the day this copy was taken.
+Vendored into this repo : 2025-09-15, commit 73d56b7 "update the theme and rebuild the
+                          website". (An earlier snapshot was vendored 2021-07-30,
+                          commit 96722dd "moving to hugo apero".)
+
+How the commit was identified (2026-08-16), since the theme carries no version string:
+
+  - exampleSite/config.toml uses `[pagination] pagerSize`  -> includes 20b79e1 (2025-02-24)
+  - exampleSite/config.toml uses `[privacy.x]`             -> includes a1e94ff (2025-02-24)
+  - exampleSite/content/collection/day01/_index.md still has the duplicated
+    `show_post_thumbnail` key                              -> predates dc82ced (2025-10-28)
+  - layouts/partials/shared/sidebar/sidebar-adunit.html still uses `site.Data.ads`
+                                                           -> predates b86ed58 (2026-03-30)
+  - upstream had no commits between 2025-02-24 and 2025-09-15, so a1e94ff was HEAD
+    when this copy was taken
+  - layouts/partials/head.html is byte-identical to upstream at a1e94ff
+
+Local modifications to this copy
+--------------------------------
+Do not discard these if the theme is ever re-vendored.
+
+1. `assets/` has been REMOVED from the theme. Upstream a1e94ff has a top-level
+   `assets/` directory; here its contents live in the project root `assets/` instead,
+   so they can be customised without editing the theme. The project copy also carries
+   Font Awesome 6.5.2, where the 2021 snapshot of the theme carried 5.15.1.
+   `layouts/partials/head.html` resolves `scaffold.scss`, `js/main.js` and
+   `js/panelset.js` from the project root as a result.
+2. `.Rprofile` and `hugo-apero.Rproj` from upstream were not vendored.
+
+Everything else in this directory should be treated as upstream and left alone.
+Override theme templates by copying them into the project's own `layouts/` at the same
+relative path (Hugo's lookup order prefers the project), rather than editing here.
+
+Hugo version
+------------
+The site builds with Hugo 0.124.0, pinned in `.Rprofile`
+(`options(blogdown.hugo.version = "0.124.0")`). The theme's own `netlify.toml` pins
+0.126.1 for its demo site, so 0.124.0 is close to what upstream tested against.
+
+Note (2026-08-16): parts of the committed `public/` were built with Hugo 0.150.0 and
+0.89.4 by earlier sessions on other setups. Only 0.124.0 is installed on this machine.

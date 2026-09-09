@@ -3,3 +3,7 @@
 .RData
 .Ruserdata
 
+
+# dev/ holds source/planning material, not build output. The .docx contains
+# PII (see dev/WEBSITE_UPDATE_PLAN.md sec. 5.1) and must never be committed.
+dev/

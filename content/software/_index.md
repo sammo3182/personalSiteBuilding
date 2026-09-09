@@ -1,7 +1,7 @@
 ---
-title: "R Packages"
+title: "Software 软件"
 description: |
-  Open-source software based on R programming language.
+  Open-source R packages for political science research and teaching.
   
 show_header: true
 show_post_thumbnail: true
@@ -21,13 +21,13 @@ sidebar:
     **Software specialty**    
     **软件用途** 
     + Data visualization    
-        可视化
-    + Data scrapping    
-        数据收集
+        数据可视化
+    + Data retrieval    
+        数据获取
     + Geocode conversion    
         行政区划转换
-    + Latent variable analysis     
-        潜变量分析
+    + Research workflow and teaching     
+        科研工作流与教学
 
     
 ---

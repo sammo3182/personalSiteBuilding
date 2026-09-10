@@ -16,11 +16,29 @@
   term pages -- keeps the original <img> behaviour untouched.
 
   Only the <figure> block below differs from the theme file. Added 2026-08-16, task 05.
+
+  2026-09-10: accept $root either as the theme's old `.Scratch.Get "$root"`
+  (still used by every other caller of this partial: project/list-sidebar,
+  taxonomy/term, taxonomy/taxonomy, _default/list) or as an explicit
+  `(dict "page" . "root" $caller)` argument, which is what blog/list-sidebar.html
+  now passes to avoid the cross-goroutine Page.Scratch race described there.
 */}}
-{{ $page := . }}                           <!--save current page-->
+{{ $ctx := . }}
+{{ $isDict := reflect.IsMap $ctx }}
+{{ $page := $ctx }}                        <!--save current page-->
+{{ $root := "" }}
+{{ if $isDict }}
+  {{ $page = index $ctx "page" }}
+  {{ $root = index $ctx "root" }}
+{{ else }}
+  {{ $root = $ctx.Scratch.Get "$root" }}   <!--save root section-->
+{{ end }}
 {{ $section := $page.CurrentSection }}     <!--save branch section-->
-{{ $root := .Scratch.Get "$root" }}     <!--save root section-->
 <article class="mv4 mv5-l bb">
+{{ with $page }}
+  <!--rebinds "." to $page for the rest of this partial, so the theme's
+      original bare-dot references ({{ .RelPermalink }}, {{ .Params.excerpt }}, ...)
+      keep working whether the caller passed a bare page or the {page, root} dict-->
 
   <!--if show_post_thumbnail is TRUE in root-->
   {{ if $root.Params.show_post_thumbnail }}
@@ -91,4 +109,5 @@
     </footer>
   </div>
   {{ end }}
+{{ end }}
 </article>

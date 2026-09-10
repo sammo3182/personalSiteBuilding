@@ -1,12 +1,26 @@
 {{/*
   Project override of themes/hugo-apero/layouts/blog/list-sidebar.html
 
-  Identical to the theme's version except for one addition: a `{{ .Section }}-list`
-  class on the content wrapper. The theme renders /software/ and /course/ with
-  byte-identical wrapper classes, so there was no way to style one without the
-  other. This gives each section its own hook (`software-list`, `course-list`).
+  Two changes from the theme's version:
 
-  Used by assets/custom.scss to halve the hex sticker size on /software/ only.
+  1. A `{{ .Section }}-list` class on the content wrapper. The theme renders
+     /software/ and /course/ with byte-identical wrapper classes, so there was
+     no way to style one without the other. This gives each section its own
+     hook (`software-list`, `course-list`). Used by assets/custom.scss to
+     halve the hex sticker size on /software/ only.
+
+  2. The root section is passed to shared/summary directly via a dict instead
+     of the theme's `.Scratch.Set "$root" $caller` + `partial "shared/summary" .`.
+     Page.Scratch is per-Page, not per-render: a page that appears in more than
+     one list (e.g. every course appears in both /course/ and its series
+     sub-list) gets rendered by multiple goroutines that all write to the same
+     Page's Scratch concurrently. Whichever goroutine's Set happened to run
+     last before this partial's Get won, so the thumbnail/byline block on
+     /course/ picked a random $root each build -- on some builds it lost its
+     thumbnail entirely (see shared/summary.html's `show_post_thumbnail`
+     branch). Passing $root straight through the partial's argument removes
+     the shared mutable state, so there's nothing left to race on.
+
   Keep in sync if the vendored theme is ever updated.
 */}}
 {{ define "main" }}
@@ -15,8 +29,7 @@
   <section class="blog-content mw7 center {{ .Section }}-list">
     {{ $paginator := .Paginate (where .RegularPagesRecursive "Type" "blog").ByDate.Reverse }}
       {{ range $paginator.Pages }}
-        {{ .Scratch.Set "$root" $caller }}
-        {{ partial "shared/summary" . }}
+        {{ partial "shared/summary" (dict "page" . "root" $caller) }}
       {{ end }}
     {{ partial "shared/list-pagination.html" . }}
   </section>

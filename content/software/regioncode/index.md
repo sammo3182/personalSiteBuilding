@@ -10,7 +10,10 @@ date: "2026-04-07"
 featured: true
 draft: false
 
-excerpt: A package to achieve similar functions specifically for China studies. `regioncode` enables seamlessly converting regions' formal names, commonly used names, and administrative division codes between each other.
+excerpt: |
+  A package to achieve similar functions specifically for China studies. `regioncode` enables seamlessly converting regions' formal names, commonly used names, and administrative division codes between each other.
+
+  [![CRAN version](http://www.r-pkg.org/badges/version/regioncode)](https://cran.r-project.org/package=regioncode) ![](http://cranlogs.r-pkg.org/badges/grand-total/regioncode) ![](http://cranlogs.r-pkg.org/badges/regioncode?color=orange)
 layout: single
 
 links:

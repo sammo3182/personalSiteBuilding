@@ -4,7 +4,7 @@ subtitle: Data Science and Text Analysis | 香港城市大学 CAMS
 author: Yue Hu
 excerpt: Teaching the computer to read, for students who came to graduate school to avoid mathematics.
 
-date: "2026-08-16"
+date: "2026-09-07"
 draft: false
 
 featured: true

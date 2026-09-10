@@ -10,7 +10,10 @@ date: "2026-07-14"
 featured: true
 draft: false
 
-excerpt: A pedagogical software designed to make the R learners' life a little bit easier and happier and a supplementary courseware for Dr. Yue Hu's R program lectures. The tutorials included are crystallized during Dr. Hu's online and offline R workshop. 
+excerpt: |
+  A pedagogical software designed to make the R learners' life a little bit easier and happier and a supplementary courseware for Dr. Yue Hu's R program lectures. The tutorials included are crystallized during Dr. Hu's online and offline R workshop.
+
+  [![CRAN version](http://www.r-pkg.org/badges/version/drhur)](https://cran.r-project.org/package=drhur) ![](http://cranlogs.r-pkg.org/badges/grand-total/drhur) ![](http://cranlogs.r-pkg.org/badges/drhur?color=orange)
 layout: single
 
 links:

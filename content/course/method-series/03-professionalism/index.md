@@ -3,7 +3,7 @@ title: Professionalism & Competence in Social Science | 社会科学专业化与
 author: Yue Hu
 excerpt: An eight-week seminar on dissertation craft and on where AI belongs in the research workflow.
 
-date: "2026-02-23"
+date: "2026-09-08"
 draft: false
 
 featured: true

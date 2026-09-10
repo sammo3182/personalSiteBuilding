@@ -4,7 +4,7 @@ subtitle: Large-N & Leeuwenhoek | 大样本分析与列文虎克
 author: Yue Hu
 excerpt: A gateway course of political methodology, assuming no background in statistics or mathematics.
 
-date: "2024-09-09"
+date: "2026-09-10"
 draft: false
 
 featured: true

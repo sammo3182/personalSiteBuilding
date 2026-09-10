@@ -4,7 +4,7 @@ subtitle: Perspectives and Methods | 视角与方法
 author: HU Yue
 excerpt: Fundamental theories and empirical approaches for analyzing public policies. Not currently offered.
 
-date: "2022-02-21"
+date: "2026-09-06"
 draft: false
 
 featured: true

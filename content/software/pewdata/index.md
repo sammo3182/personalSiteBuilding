@@ -10,7 +10,10 @@ date: "2021-04-08"
 featured: true
 draft: false
 
-excerpt: An R package that provides reproducible, programmatic access to survey datasets from the [Pew Research Center](http://www.pewresearch.org).
+excerpt: |
+  An R package that provides reproducible, programmatic access to survey datasets from the [Pew Research Center](http://www.pewresearch.org).
+
+  [![CRAN version](http://www.r-pkg.org/badges/version/pewdata)](https://cran.r-project.org/package=pewdata) ![](http://cranlogs.r-pkg.org/badges/grand-total/pewdata) ![](http://cranlogs.r-pkg.org/badges/pewdata?color=orange)
 layout: single
 
 links:

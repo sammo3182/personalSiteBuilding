@@ -10,7 +10,10 @@ date: "2026-06-04"
 featured: true
 draft: false
 
-excerpt: A toolbox for writing an academic paper with rmarkdown. The tools include data analyses, visualization, and documenting.
+excerpt: |
+  A toolbox for writing an academic paper with rmarkdown. The tools include data analyses, visualization, and documenting.
+
+  [![CRAN version](http://www.r-pkg.org/badges/version/drhutools)](https://cran.r-project.org/package=drhutools) ![](http://cranlogs.r-pkg.org/badges/grand-total/drhutools) ![](http://cranlogs.r-pkg.org/badges/drhutools?color=orange)
 layout: single
 
 links:

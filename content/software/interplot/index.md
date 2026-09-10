@@ -10,7 +10,10 @@ date: "2026-06-24"
 featured: true
 draft: false
 
-excerpt: A tool for plotting the conditional coefficients ("marginal effects") of variables included in multiplicative interaction terms. The function plots the changes in the coefficient of one variable in a two-way interaction term conditional on the value of the other included variable. The resulting plot also includes simulated 95% confidence intervals of these coefficients.
+excerpt: |
+  A tool for plotting the conditional coefficients ("marginal effects") of variables included in multiplicative interaction terms. The function plots the changes in the coefficient of one variable in a two-way interaction term conditional on the value of the other included variable. The resulting plot also includes simulated 95% confidence intervals of these coefficients.
+
+  [![CRAN version](http://www.r-pkg.org/badges/version/interplot)](https://cran.r-project.org/web/packages/interplot/index.html) ![](http://cranlogs.r-pkg.org/badges/grand-total/interplot)![](http://cranlogs.r-pkg.org/badges/interplot?color=orange)
 layout: single
 
 links:

@@ -3,7 +3,7 @@ title: Governance Big Data | 政务大数据 (80700673)
 author: Yue Hu
 excerpt: Advanced method course on analyzing governance data at scale, co-taught with MENG Tianguang.
 
-date: "2021-05-29"
+date: "2026-09-05"
 draft: false
 
 featured: true

@@ -4,7 +4,7 @@ subtitle: Interdisciplinary Perspectives and Case Illustrations (GE) | 多元视
 author: HU Yue
 excerpt: A general education course on how public policies are built, run, and judged.
 
-date: "2026-02-24"
+date: "2026-09-09"
 draft: false
 
 featured: true
